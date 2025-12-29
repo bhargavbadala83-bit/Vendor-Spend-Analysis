@@ -9,7 +9,7 @@ This assessment analyzes vendor spend data to identify cost-saving opportunities
 ## How to Run
 
 ```bash
-cd "/Downloads/AIAgent/VP Operations"
+cd "/Downloads/VP Operations"
 python3 vendor_spend_analysis.py
 ```
 
